@@ -1,0 +1,6 @@
+h1{text-align:center; padding:20px; margin:30px}
+/* nav{ text-align:center; padding-right:50px; padding-top:10px; margin:10px}
+#nav li{ display:inline; padding-left:3px; padding-right:3px} */
+/* .vav {color:red; text-decoration:none} */
+.container{margin:25px; padding-right:75px; padding-left:75px; text-align:justify}
+.barra{position: fixed; background:rgba(#c1c0d1, 0.19); width:5%; height:50%;top:10em; left: 0; padding-left: 15px}
